@@ -27,6 +27,7 @@ namespace _2048
             B1.Text = ""; B2.Text = ""; B3.Text = ""; B4.Text = "";
             C1.Text = ""; C2.Text = ""; C3.Text = ""; C4.Text = "";
             D1.Text = ""; D2.Text = ""; D3.Text = ""; D4.Text = "";
+
             FillSquare();
             FillSquare();
         }
